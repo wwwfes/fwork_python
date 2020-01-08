@@ -1,0 +1,49 @@
+27/11/2019 23:35:36 - LoginPage - getElement - INFO: Element Found with locator: Me connecter and locatorType: link
+27/11/2019 23:35:40 - LoginPage - elementClick - INFO: Clicked on element with locator: Me connecter locatorType: link
+27/11/2019 23:35:40 - LoginPage - getElement - INFO: Element Found with locator: edit-login and locatorType: id
+27/11/2019 23:35:40 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-login locatorType: id
+27/11/2019 23:35:40 - LoginPage - getElement - INFO: Element Found with locator: edit-password and locatorType: id
+27/11/2019 23:35:41 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-password locatorType: id
+27/11/2019 23:35:41 - LoginPage - getElement - INFO: Element Found with locator: //*[@id='edit-submit'] and locatorType: xpath
+27/11/2019 23:35:41 - LoginPage - elementClick - INFO: Clicked on element with locator: //*[@id='edit-submit'] locatorType: xpath
+27/11/2019 23:35:41 - LoginPage - getElement - INFO: Element Found with locator: //div[ @class ='bottom-elem-container']//span[contains(@class,'error__message') and contains (text(), 'Le champ Adresse email est requis.')] and locatorType: xpath
+27/11/2019 23:35:41 - LoginPage - isElementPresent - INFO: Element Found
+27/11/2019 23:35:43 - LoginPage - getElement - INFO: Element Found with locator: Me connecter and locatorType: link
+27/11/2019 23:35:46 - LoginPage - elementClick - INFO: Clicked on element with locator: Me connecter locatorType: link
+27/11/2019 23:35:46 - LoginPage - getElement - INFO: Element Found with locator: edit-login and locatorType: id
+27/11/2019 23:35:47 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-login locatorType: id
+27/11/2019 23:35:47 - LoginPage - getElement - INFO: Element Found with locator: edit-password and locatorType: id
+27/11/2019 23:35:47 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-password locatorType: id
+27/11/2019 23:35:47 - LoginPage - getElement - INFO: Element Found with locator: //*[@id='edit-submit'] and locatorType: xpath
+27/11/2019 23:36:08 - LoginPage - elementClick - INFO: Clicked on element with locator: //*[@id='edit-submit'] locatorType: xpath
+27/11/2019 23:36:08 - TestStatus - setResult - ERROR: ### VERIFICATION FAILED :: + Title is Verified
+27/11/2019 23:36:09 - TestStatus - screenShot - INFO: Screenshot save to directory: C:\Pprojects\base\../screenshots/Title is Verified.1574890568371.png
+27/11/2019 23:36:09 - LoginPage - getElement - INFO: Element Found with locator: //div[@class='block-text']//span[(@class='text sgt-menu-item-text')] and locatorType: xpath
+27/11/2019 23:36:09 - LoginPage - isElementPresent - INFO: Element Found
+27/11/2019 23:36:09 - TestStatus - setResult - INFO: ### VERIFICATION SUCCESSFUL :: + Login was  successful
+27/11/2019 23:36:09 - TestStatus - markFinal - ERROR: test_validLogin ### TEST FAILED
+28/11/2019 00:10:04 - LoginPage - getElement - INFO: Element Found with locator: Me connecter and locatorType: link
+28/11/2019 00:10:10 - LoginPage - elementClick - INFO: Clicked on element with locator: Me connecter locatorType: link
+28/11/2019 00:10:10 - LoginPage - getElement - INFO: Element Found with locator: edit-login and locatorType: id
+28/11/2019 00:10:10 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-login locatorType: id
+28/11/2019 00:10:10 - LoginPage - getElement - INFO: Element Found with locator: edit-password and locatorType: id
+28/11/2019 00:10:10 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-password locatorType: id
+28/11/2019 00:10:10 - LoginPage - getElement - INFO: Element Found with locator: //*[@id='edit-submit'] and locatorType: xpath
+28/11/2019 00:10:11 - LoginPage - elementClick - INFO: Clicked on element with locator: //*[@id='edit-submit'] locatorType: xpath
+28/11/2019 00:10:11 - LoginPage - getElement - INFO: Element Found with locator: //div[ @class ='bottom-elem-container']//span[contains(@class,'error__message') and contains (text(), 'Le champ Adresse email est requis.')] and locatorType: xpath
+28/11/2019 00:10:11 - LoginPage - isElementPresent - INFO: Element Found
+28/11/2019 00:10:13 - LoginPage - getElement - INFO: Element Found with locator: Me connecter and locatorType: link
+28/11/2019 00:10:16 - LoginPage - elementClick - INFO: Clicked on element with locator: Me connecter locatorType: link
+28/11/2019 00:10:16 - LoginPage - getElement - INFO: Element Found with locator: edit-login and locatorType: id
+28/11/2019 00:10:17 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-login locatorType: id
+28/11/2019 00:10:17 - LoginPage - getElement - INFO: Element Found with locator: edit-password and locatorType: id
+28/11/2019 00:10:17 - LoginPage - sendKeys - INFO: Send data on element with locator: edit-password locatorType: id
+28/11/2019 00:10:17 - LoginPage - getElement - INFO: Element Found with locator: //*[@id='edit-submit'] and locatorType: xpath
+28/11/2019 00:10:42 - LoginPage - elementClick - INFO: Clicked on element with locator: //*[@id='edit-submit'] locatorType: xpath
+28/11/2019 00:10:43 - LoginPage - verifyPageTitle - ERROR: Failed to get page title
+28/11/2019 00:10:43 - TestStatus - setResult - ERROR: ### VERIFICATION FAILED :: + Title is Verified
+28/11/2019 00:10:43 - TestStatus - screenShot - INFO: Screenshot save to directory: C:\Pprojects\base\../screenshots/Title is Verified.1574892643171.png
+28/11/2019 00:10:43 - LoginPage - getElement - INFO: Element Found with locator: //div[@class='block-text']//span[(@class='text sgt-menu-item-text')] and locatorType: xpath
+28/11/2019 00:10:43 - LoginPage - isElementPresent - INFO: Element Found
+28/11/2019 00:10:43 - TestStatus - setResult - INFO: ### VERIFICATION SUCCESSFUL :: + Login was  successful
+28/11/2019 00:10:43 - TestStatus - markFinal - ERROR: test_validLogin ### TEST FAILED

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="935066fa-fe0b-41ba-a32f-1259f4d8cce1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pprojects" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TsBTtoJ6FCzB7z8uo9JSsHSibI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/BO" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\Pprojects\pages\BO" />
+      <recent name="C:\Users\admin\PycharmProjects\Pprojects\tests" />
+      <recent name="C:\Pprojects\tests" />
+      <recent name="C:\Pprojects\tests\home" />
+      <recent name="C:\Pprojects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\Pprojects\pages\BO" />
+      <recent name="C:\Users\admin\PycharmProjects\Pprojects\new1" />
+      <recent name="C:\Users\admin\PycharmProjects\Pprojects\tests" />
+      <recent name="C:\Pprojects\tests" />
+      <recent name="C:\Pprojects\utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.task_test">
+    <configuration name="PDP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new1/PDP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="element_present_check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/element_present_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for testssss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new1/for testssss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nneww" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loggingpackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loggingpackage/nneww.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/hotline" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/hotline/task_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.PDP" />
+      <item itemvalue="Python.element_present_check" />
+      <item itemvalue="Python.for testssss" />
+      <item itemvalue="Python.nneww" />
+      <item itemvalue="Python.task_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task_test" />
+        <item itemvalue="Python.nneww" />
+        <item itemvalue="Python.PDP" />
+        <item itemvalue="Python.element_present_check" />
+        <item itemvalue="Python.for testssss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="935066fa-fe0b-41ba-a32f-1259f4d8cce1" name="Default Changelist" comment="" />
+      <created>1574238933372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574238933372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575697893646">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="533" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1575697893646" />
+    <state x="-1280" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@-1920.0.1920.1040" timestamp="1575370421173" />
+    <state x="-1168" y="283" key="FileChooserDialogImpl" timestamp="1578480707415">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1168" y="283" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578480707415" />
+    <state width="1515" height="170" key="GridCell.Tab.0.bottom" timestamp="1577191543102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374250" />
+    <state width="1515" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1577191543102" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@-1920.0.1920.1040" timestamp="1575468251450" />
+    <state width="1515" height="77" key="GridCell.Tab.0.bottom/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@0.0.1536.824" timestamp="1575566506426" />
+    <state width="1515" height="170" key="GridCell.Tab.0.center" timestamp="1577191543102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374249" />
+    <state width="1515" height="170" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1577191543102" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@-1920.0.1920.1040" timestamp="1575468251450" />
+    <state width="1515" height="77" key="GridCell.Tab.0.center/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@0.0.1536.824" timestamp="1575566506426" />
+    <state width="1515" height="170" key="GridCell.Tab.0.left" timestamp="1577191543102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374249" />
+    <state width="1515" height="170" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1577191543102" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@-1920.0.1920.1040" timestamp="1575468251450" />
+    <state width="1515" height="77" key="GridCell.Tab.0.left/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@0.0.1536.824" timestamp="1575566506425" />
+    <state width="1515" height="170" key="GridCell.Tab.0.right" timestamp="1577191543102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374249" />
+    <state width="1515" height="170" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1577191543102" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@-1920.0.1920.1040" timestamp="1575468251450" />
+    <state width="1515" height="77" key="GridCell.Tab.0.right/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@0.0.1536.824" timestamp="1575566506426" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1576599374250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374250" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1576599374250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374250" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1576599374250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374250" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1576599374250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576599374250" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1575477921616">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@0.0.1536.824" timestamp="1575477921616" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578479085271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576581090875" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040/-1920.0.1920.1040@0.0.1536.824" timestamp="1578479085271" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576603080164" />
+    <state x="484" y="246" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1575806568235" />
+    <state x="-1339" y="298" key="com.intellij.ide.util.TipDialog/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@-1920.0.1920.1040" timestamp="1575448438770" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@0.0.1536.824" timestamp="1575566212427" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1575477888059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@0.0.1536.824" timestamp="1575477888059" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1576581636386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@0.0.1536.824" timestamp="1576581636386" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1030/-1920.0.1920.1040/0.0.1536.824@-1920.0.1920.1040" timestamp="1575457552761" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loggingpackage/nneww.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

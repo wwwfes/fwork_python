@@ -1,0 +1,5 @@
+24/11/2019 18:07:25 -LoggingDemo2 - DEBUG: debug message
+24/11/2019 18:07:25 -LoggingDemo2 - INFO: info message
+24/11/2019 18:07:25 -LoggingDemo2 - WARNING: warn message
+24/11/2019 18:07:25 -LoggingDemo2 - ERROR: error message
+24/11/2019 18:07:25 -LoggingDemo2 - CRITICAL: critical message
